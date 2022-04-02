@@ -2,14 +2,16 @@ package router
 
 import (
 	"fmt"
+	"net/http"
+
 	"github.com/gin-contrib/requestid"
 	"github.com/gin-gonic/gin"
-	"kang/pkg/response"
+	"github.com/swaggo/gin-swagger"
+	"github.com/swaggo/gin-swagger/swaggerFiles"
 
 	"kang/global"
 	"kang/middleware"
-
-	"net/http"
+	"kang/pkg/response"
 )
 
 func Register() *gin.Engine {
@@ -27,13 +29,14 @@ func Register() *gin.Engine {
 	router.Use(requestid.New())
 	router.Use(middleware.RequestIdAuth())
 
+	router.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
+
 	//页面找不到
 	router.NoRoute(func(c *gin.Context) {
 		path := c.Request.URL.Path
 		method := c.Request.Method
 		response.NotFoundException(c, fmt.Sprintf("%s %s not found", method, path))
 	})
-
 
 	return router
 }
