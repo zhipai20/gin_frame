@@ -1,0 +1,1 @@
+[gin-frame]2022/04/02 - 17:11:58.112	[33mwarn[0m	D:/Users/Desktop/Go/practice/gin-frame/middleware/requestid_auth.go:44		{"req_body": "", "req_host": "localhost:8888", "req_method": "GET", "req_clientIp": "::1", "req_id": "65cb50fa-3148-4c34-8cf1-779b777fd0b4", "req_uri": "/", "req_time": "0ms"}

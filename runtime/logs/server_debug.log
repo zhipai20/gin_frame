@@ -1,0 +1,2 @@
+[gin-frame]2022/03/31 - 16:50:31.437	[35mdebug[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:62	程序载入Logger服务成功 模块名为：runtime/logs 日志路径为: %!s(MISSING)
+[gin-frame]2022/03/31 - 17:01:51.457	[35mdebug[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:62	程序载入Logger服务成功 模块名为：runtime/logs 日志路径为: %!s(MISSING)

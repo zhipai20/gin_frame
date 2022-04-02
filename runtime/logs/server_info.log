@@ -1,0 +1,45 @@
+[gin-frame]2022/03/31 - 16:50:31.451	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:86	:程序载入MySQL服务成功
+[gin-frame]2022/03/31 - 16:50:31.465	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:104	程序载入Redis服务成功
+[gin-frame]2022/03/31 - 17:01:51.464	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:86	:程序载入MySQL服务成功
+[gin-frame]2022/03/31 - 17:01:51.466	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:104	程序载入Redis服务成功
+[gin-frame]2022/03/31 - 17:03:52.672	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:62	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/03/31 - 17:03:52.678	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:86	:程序载入MySQL服务成功
+[gin-frame]2022/03/31 - 17:03:52.684	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:104	程序载入Redis服务成功
+[gin-frame]2022/03/31 - 17:03:58.432	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:62	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/03/31 - 17:03:58.438	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:86	:程序载入MySQL服务成功
+[gin-frame]2022/03/31 - 17:03:58.438	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:104	程序载入Redis服务成功
+[gin-frame]2022/03/31 - 17:04:04.203	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:62	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/03/31 - 17:04:04.213	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:86	:程序载入MySQL服务成功
+[gin-frame]2022/03/31 - 17:04:04.213	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:104	程序载入Redis服务成功
+[gin-frame]2022/04/01 - 12:30:17.371	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:62	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/04/01 - 14:07:49.255	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:62	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/04/01 - 14:07:49.268	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:86	:程序载入MySQL服务成功
+[gin-frame]2022/04/01 - 14:07:49.351	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:104	程序载入Redis服务成功
+[gin-frame]2022/04/02 - 17:10:18.399	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:63	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/04/02 - 17:10:18.502	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:87	:程序载入MySQL服务成功
+[gin-frame]2022/04/02 - 17:10:18.502	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:105	程序载入Redis服务成功
+[gin-frame]2022/04/02 - 17:11:41.330	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:63	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/04/02 - 17:11:41.334	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:87	:程序载入MySQL服务成功
+[gin-frame]2022/04/02 - 17:11:41.339	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:105	程序载入Redis服务成功
+[gin-frame]2022/04/02 - 17:13:27.639	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:63	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/04/02 - 17:13:27.644	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:87	:程序载入MySQL服务成功
+[gin-frame]2022/04/02 - 17:13:27.644	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:105	程序载入Redis服务成功
+[gin-frame]2022/04/02 - 17:14:23.346	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/middleware/requestid_auth.go:55		{"req_body": "", "req_host": "localhost:8888", "req_method": "GET", "req_clientIp": "::1", "req_id": "e1201dcc-52e3-4ee6-bca1-bd48ff21f4eb", "req_uri": "/", "req_time": "0ms"}
+[gin-frame]2022/04/02 - 17:15:29.343	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:63	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/04/02 - 17:15:29.360	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:87	:程序载入MySQL服务成功
+[gin-frame]2022/04/02 - 17:15:29.364	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:105	程序载入Redis服务成功
+[gin-frame]2022/04/02 - 17:16:10.528	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:63	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/04/02 - 17:16:10.539	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:87	:程序载入MySQL服务成功
+[gin-frame]2022/04/02 - 17:16:10.543	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:105	程序载入Redis服务成功
+[gin-frame]2022/04/02 - 17:16:38.261	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:63	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/04/02 - 17:16:38.264	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:87	:程序载入MySQL服务成功
+[gin-frame]2022/04/02 - 17:16:38.270	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:105	程序载入Redis服务成功
+[gin-frame]2022/04/02 - 17:17:12.007	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:63	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/04/02 - 17:17:12.012	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:87	:程序载入MySQL服务成功
+[gin-frame]2022/04/02 - 17:17:12.014	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:105	程序载入Redis服务成功
+[gin-frame]2022/04/02 - 17:17:43.393	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:63	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/04/02 - 17:17:43.402	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:87	:程序载入MySQL服务成功
+[gin-frame]2022/04/02 - 17:17:43.405	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:105	程序载入Redis服务成功
+[gin-frame]2022/04/02 - 17:27:22.195	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:63	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/04/02 - 17:27:22.206	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:87	:程序载入MySQL服务成功
+[gin-frame]2022/04/02 - 17:27:22.207	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:105	程序载入Redis服务成功

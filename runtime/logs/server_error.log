@@ -1,0 +1,4 @@
+[gin-frame]2022/04/02 - 17:11:58.110	[31merror[0m	D:/Users/Desktop/Go/practice/gin-frame/middleware/loadtls.go:18	HTTPS Request err: redirecting to HTTPS
+[gin-frame]2022/04/02 - 17:14:23.345	[31merror[0m	D:/Users/Desktop/Go/practice/gin-frame/middleware/loadtls.go:18	HTTPS Request err: redirecting to HTTPS
+[gin-frame]2022/04/02 - 17:16:21.507	[31merror[0m	D:/Users/Desktop/Go/practice/gin-frame/middleware/loadtls.go:18	HTTPS Request err: redirecting to HTTPS
+[gin-frame]2022/04/02 - 17:17:12.951	[31merror[0m	D:/Users/Desktop/Go/practice/gin-frame/middleware/loadtls.go:18	HTTPS Request err: redirecting to HTTPS

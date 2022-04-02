@@ -1,0 +1,63 @@
+server:
+  mode: 'debug'
+  defaultPageSize: 20 # 默认分页条数
+  maxPageSize: 500    # 最大分页条数
+  tokenExpire: 3600   # token过期时间
+  tokenKey: 'Authorization' # token的键名
+  tokenIssuer: 'lyky-gin-framework-template'
+  jwtSecret: '3jQSRZXeXzr09hq0GrZuL9Dgtk2XV9Ax'
+
+# zap logger configuration
+log:
+  level: 'info'
+  format: 'console'
+  prefix: '[gin-frame]'
+  director: 'runtime/logs'
+  show-line: true
+  encode-level: 'LowercaseColorLevelEncoder'
+  stacktrace-key: 'stacktrace'
+  log-in-console: true
+
+# local configuration
+local:
+  path: 'uploads/file'
+
+mysql:
+  host: '127.0.0.1'
+  port: '3306'
+  user: 'root'
+  kang: 'root'
+  dbname: 'gin_framework'
+  prefix: ""
+  maxIdleConns: 10 # 设置空闲连接池中连接的最大数量
+  maxOpenConns: 100 # 设置打开数据库连接的最大数量
+  maxLifeTime: 60 # 设置了连接可复用的最大时间（分钟）
+
+redis:
+  host: '127.0.0.1'
+  port: '6379'
+  password: ''
+  dbNum: 0
+  loginPrefix: 'lyky_gin_framework_login_' # 登录用户存入redis键名的前缀
+
+oss:
+  endPoint: 'https://oss-cn-shanghai.aliyuncs.com'
+  accessKeyID: ''
+  accessKeySecret: ''
+  bucketName: ''
+
+# 跨域配置
+# 需要配合 server/initialize/router.go#L32 使用
+cors:
+  mode: whitelist # 放行模式: allow-all, 放行全部; whitelist, 白名单模式, 来自白名单内域名的请求添加 cors 头; strict-whitelist 严格白名单模式, 白名单外的请求一律拒绝
+  whitelist:
+    - allow-origin: example1.com
+      allow-headers: content-type
+      allow-methods: GET, POST
+      expose-headers: Content-Length, Access-Control-Allow-Origin, Access-Control-Allow-Headers, Content-Type
+      allow-credentials: true # 布尔值
+    - allow-origin: example2.com
+      allow-headers: content-type
+      allow-methods: GET, POST
+      expose-headers: Content-Length, Access-Control-Allow-Origin, Access-Control-Allow-Headers, Content-Type
+      allow-credentials: true # 布尔值
