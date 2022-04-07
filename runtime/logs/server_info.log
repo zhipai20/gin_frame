@@ -43,3 +43,12 @@
 [gin-frame]2022/04/02 - 17:27:22.195	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:63	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
 [gin-frame]2022/04/02 - 17:27:22.206	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:87	:程序载入MySQL服务成功
 [gin-frame]2022/04/02 - 17:27:22.207	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:105	程序载入Redis服务成功
+[gin-frame]2022/04/02 - 17:28:14.344	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:63	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/04/02 - 17:28:14.344	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:87	:程序载入MySQL服务成功
+[gin-frame]2022/04/02 - 17:28:14.355	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:105	程序载入Redis服务成功
+[gin-frame]2022/04/02 - 17:28:17.972	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/middleware/requestid_auth.go:55		{"req_body": "", "req_host": "localhost:8888", "req_method": "GET", "req_clientIp": "::1", "req_id": "0144bf0a-c3af-4959-be1f-addec107ca1b", "req_uri": "/", "req_time": "0ms"}
+[gin-frame]2022/04/02 - 17:54:16.578	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:63	程序载入Logger服务成功 环境名为：dev 日志路径为: runtime/logs
+[gin-frame]2022/04/02 - 17:54:16.582	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:87	:程序载入MySQL服务成功
+[gin-frame]2022/04/02 - 17:54:16.585	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/bootstrap/boot.go:105	程序载入Redis服务成功
+[gin-frame]2022/04/02 - 17:54:43.863	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/middleware/requestid_auth.go:55		{"req_body": "", "req_host": "localhost:8888", "req_method": "GET", "req_clientIp": "::1", "req_id": "b80cf30d-e4c5-4750-9e71-5a7571dd77eb", "req_uri": "/swagger/qwwq", "req_time": "0ms"}
+[gin-frame]2022/04/02 - 17:54:48.871	[34minfo[0m	D:/Users/Desktop/Go/practice/gin-frame/middleware/requestid_auth.go:55		{"req_body": "", "req_host": "localhost:8888", "req_method": "GET", "req_clientIp": "::1", "req_id": "0a32ef73-5a96-4dc7-bfa3-253a3fe6f4a6", "req_uri": "/swagger/", "req_time": "0ms"}
